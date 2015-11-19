@@ -1,0 +1,40 @@
+MF=     Makefile.64-bit.gcc
+ 
+CC=     g++
+ 
+CFLAGS= -g -D_USE_64 -msse3 -fopenmp -O3 -fomit-frame-pointer -funroll-loops 
+ 
+LFLAGS= -std=c++11 -O3 -DNDEBUG -I ./libsdsl/include/ -L ./libsdsl/lib/ -lsdsl -ldivsufsort -ldivsufsort64 -Wl,-rpath=$(PWD)/libsdsl/lib
+ 
+EXE=    apds
+ 
+SRC=    apds.cpp helper.cpp DegeneratePatternMatch.cpp
+ 
+HD=     globalDefs.hpp DegeneratePatternMatch.hpp helperDefs.hpp Makefile.64-bit.gcc
+ 
+# 
+# No need to edit below this line 
+# 
+ 
+.SUFFIXES: 
+.SUFFIXES: .cpp .o 
+ 
+OBJ=    $(SRC:.cpp=.o) 
+ 
+.cpp.o: 
+	$(CC) $(CFLAGS)-c $(LFLAGS) $< 
+ 
+all:    $(EXE) 
+ 
+$(EXE): $(OBJ) 
+	$(CC) $(CFLAGS) -o $@ $(OBJ) $(LFLAGS) 
+ 
+$(OBJ): $(MF) $(HD) 
+ 
+clean: 
+	rm -f $(OBJ) $(EXE) *~
+
+clean-all: 
+	rm -f $(OBJ) $(EXE) *~
+	rm -r libsdsl
+	rm -r sdsl-lite

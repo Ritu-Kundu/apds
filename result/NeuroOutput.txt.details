@@ -1,0 +1,96 @@
+> sp|P01180|NEU2_BOVIN Vasopressin-neurophysin 2-copeptin OS=Bos taurus GN=AVP PE=1 SV=1 
+#1 
+19	CYFQNCPRG
+> sp|P01185|NEU2_HUMAN Vasopressin-neurophysin 2-copeptin OS=Homo sapiens GN=AVP PE=1 SV=2 
+#1 
+19	CYFQNCPRG
+> sp|P01175|NEU1_BOVIN Oxytocin-neurophysin 1 OS=Bos taurus GN=OXT PE=1 SV=1 
+#1 
+19	CYIQNCPLG
+> sp|P01178|NEU1_HUMAN Oxytocin-neurophysin 1 OS=Homo sapiens GN=OXT PE=1 SV=1 
+#1 
+19	CYIQNCPLG
+> sp|P01179|NEU1_RAT Oxytocin-neurophysin 1 OS=Rattus norvegicus GN=Oxt PE=1 SV=2 
+#1 
+19	CYIQNCPLG
+> sp|P01183|NEU2_PIG Vasopressin-neurophysin 2-copeptin OS=Sus scrofa GN=AVP PE=1 SV=2 
+#1 
+19	CYFQNCPKG
+> sp|P01186|NEU2_RAT Vasopressin-neurophysin 2-copeptin OS=Rattus norvegicus GN=Avp PE=1 SV=1 
+#1 
+23	CYFQNCPRG
+> sp|Q00945|CONO_LYMST Conopressin/neurophysin OS=Lymnaea stagnalis PE=1 SV=1 
+#1 
+26	CFIRNCPKG
+> sp|P15210|NEU1_CATCO Isotocin-neurophysin IT 1 OS=Catostomus commersonii PE=2 SV=1 
+#1 
+20	CYISNCPIG
+> sp|P01176|NEU1_HORSE Oxytocin-neurophysin 1 (Fragment) OS=Equus caballus GN=OXT PE=1 SV=2 
+#1 
+0	CYIQNCPLG
+> sp|P01177|NEU1_PIG Oxytocin-neurophysin 1 OS=Sus scrofa GN=OXT PE=1 SV=3 
+#1 
+19	CYIQNCPLG
+> sp|P35454|NEU1_MOUSE Oxytocin-neurophysin 1 OS=Mus musculus GN=Oxt PE=2 SV=1 
+#1 
+19	CYIQNCPLG
+> sp|P13389|NEU1_SHEEP Oxytocin-neurophysin 1 OS=Ovis aries GN=OXT PE=1 SV=2 
+#1 
+19	CYIQNCPLG
+> sp|P10769|NEU2_CAVPO Vasopressin-neurophysin 2-copeptin OS=Cavia porcellus GN=AVP PE=1 SV=2 
+#1 
+0	CYFQNCPRG
+> sp|P15211|NEU2_CATCO Isotocin-neurophysin IT 2 OS=Catostomus commersonii PE=2 SV=1 
+#1 
+20	CYISNCPIG
+> sp|P35455|NEU2_MOUSE Vasopressin-neurophysin 2-copeptin OS=Mus musculus GN=Avp PE=2 SV=1 
+#1 
+23	CYFQNCPRG
+> sp|Q7M428|NEU3_EPTST Vasotocin-neurophysin VT OS=Eptatretus stoutii PE=2 SV=1 
+#1 
+22	CYIQNCPRG
+> sp|P16229|NEU4_CATCO Vasotocin-neurophysin VT 2 OS=Catostomus commersonii PE=2 SV=1 
+#1 
+20	CYIQNCPRG
+> sp|P16042|NEU4_ONCKE Vasotocin-neurophysin VT 2 OS=Oncorhynchus keta PE=2 SV=1 
+#1 
+19	CYIQNCPRG
+> sp|P16041|NEU3_ONCKE Vasotocin-neurophysin VT 1 OS=Oncorhynchus keta PE=2 SV=1 
+#1 
+20	CYIQNCPRG
+> sp|P17668|NEU3_CATCO Vasotocin-neurophysin VT 1 OS=Catostomus commersonii PE=2 SV=1 
+#1 
+19	CYIQNCPRG
+> sp|O42493|NEUI_TAKRU Isotocin-neurophysin IT 1 OS=Takifugu rubripes PE=3 SV=1 
+#1 
+19	CYISNCPIG
+> sp|P08163|NEUV_BUFJA Vasotocin-neurophysin VT (Fragment) OS=Bufo japonicus PE=2 SV=1 
+#1 
+17	CYIQNCPRG
+> sp|O42499|NEUV_TAKRU Vasotocin-neurophysin VT 1 OS=Takifugu rubripes PE=3 SV=1 
+#1 
+19	CYIQNCPRG
+> sp|Q91166|NEU1_ONCKE Isotocin-neurophysin IT 1 OS=Oncorhynchus keta PE=2 SV=2 
+#1 
+20	CYISNCPIG
+> sp|Q07663|NEU1_ONCMA Isotocin-neurophysin IT 1 OS=Oncorhynchus masou PE=1 SV=2 
+#1 
+20	CYISNCPIG
+> sp|Q07662|NEU3_ONCMA Vasotocin-neurophysin VT 1 OS=Oncorhynchus masou PE=1 SV=1 
+#1 
+20	CYIQNCPRG
+> sp|Q91167|NEU2_ONCKE Isotocin-neurophysin IT 2 OS=Oncorhynchus keta PE=2 SV=1 
+#1 
+19	CYISNCPIG
+> sp|P08162|NEUM_BUFJA Mesotocin-neurophysin MT OS=Bufo japonicus PE=2 SV=1 
+#1 
+19	CYIQNCPIG
+> sp|P42992|NEUV_AMIRE Vasotocin-neurophysin VT (Fragment) OS=Amietophrynus regularis PE=1 SV=1 
+#1 
+0	CYIQNCPRG
+> sp|P24787|NEUV_CHICK Vasotocin-neurophysin VT OS=Gallus gallus PE=2 SV=1 
+#1 
+19	CYIQNCPRG
+> sp|P11858|NEUV_PELES Vasotocin-neurophysin VT OS=Pelophylax esculentus PE=1 SV=1 
+#1 
+0	CYIQNCPRG

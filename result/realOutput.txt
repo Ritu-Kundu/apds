@@ -1,0 +1,9 @@
+patterns: 1
+			1	
+Escherichia-coli 	0 	
+##### Summary ######
+
+Total Elapsed time for processing: 40.003453 secs.
+
+Total number of patterns: 1 
+Total number of sequences: 1 
