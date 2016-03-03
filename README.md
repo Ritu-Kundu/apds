@@ -10,6 +10,12 @@ To compile APDS, please follow the instructions given in file INSTALL.
 
 To have an overview of the code-organisation, please read DevelopersNotes.md.
 
+
+**NOTE:** 
+When publishing work that is based on the results from apds please cite:
+
+M. Crochemore, C. S. Iliopoulos, R. Kundu, M. Mohamed, F. Vayani, "Linear algorithm for conservative degenerate pattern matching", Engineering Applications of Artificial Intelligence, 2016, pp. -.
+
 **Usage of the tool:** 
 apds <options>
 with the following options:
