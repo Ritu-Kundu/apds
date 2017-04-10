@@ -1,9 +1,9 @@
 APDS : Approximate Patter-matching in Degenerate Strings
 =====================================
 
-APDS is a tool that finds out approximate occurences of a degenerate pattern in a given input sequence.
+APDS is a tool that finds out approximate occurrences of a degenerate pattern in a given input sequence.
 It is based on the algorithm described in the paper titled
-[**Linear Algorithm for Conservative Degenerate Pattern**](http://www.sciencedirect.com/science/article/pii/S0031320301001790)
+[**Linear Algorithm for Conservative Degenerate Pattern**](http://www.sciencedirect.com/science/article/pii/S0952197616000130)
 by Maxime Crochemore, Costas S. Iliopoulos, Ritu Kundu, Manal Mohamed, Fatima Vayani
 
 To compile APDS, please follow the instructions given in file INSTALL.
@@ -14,7 +14,7 @@ To have an overview of the code-organisation, please read DevelopersNotes.md.
 **NOTE:** 
 When publishing work that is based on the results from apds please cite:
 
-M. Crochemore, C. S. Iliopoulos, R. Kundu, M. Mohamed, F. Vayani, "Linear algorithm for conservative degenerate pattern matching", Engineering Applications of Artificial Intelligence, 2016, pp. -.
+M. Crochemore, C. S. Iliopoulos, R. Kundu, M. Mohamed, F. Vayani, "Linear algorithm for conservative degenerate pattern matching", Engineering Applications of Artificial Intelligence, vol. 51, 2016, pp. 109 - 114.
 
 **Usage of the tool:** 
 apds <options>
